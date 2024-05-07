@@ -47,4 +47,4 @@ conda install xgboost=1.7.6
 
 
 ## Attribution
-This work is under ? License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
+This work is under MIT License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
