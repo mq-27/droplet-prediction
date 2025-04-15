@@ -1,7 +1,7 @@
 # Microfluidic droplet size prediction
 Interpretable tree-based ensemble models for microfluidic droplet size prediction
 ## Description
-The prediction of the droplet size depends on complex and multiple factors, including microchannel geometries, experimental systems, operation conditions and so on.  An data and mechanism dual driven framework for exploring microfluidic droplet generation is developed. Please refer to our work "Modeling and Analysis of Droplet Generation in Capillary Embedded Microchannels using Tree-Based Machine Learning Methods" for additional details.
+The prediction of the droplet size depends on complex and multiple factors, including microchannel geometries, experimental systems, operation conditions and so on.  An data and mechanism dual driven framework for exploring microfluidic droplet generation is developed. Please refer to our work "Modeling and analysis of droplet generation in microchannels using interpretable machine learning methods" for additional details.
 
 ## Installation
 1.Create conda environment<br>
@@ -43,7 +43,7 @@ conda install xgboost=1.7.6
 | **VERSION** | 1.0 / May,2024                               |
 | **EMAILS**  | liumq22@mails.tsinghua.edu.cn                         |
 
-## Publications
+## Publication
 https://doi.org/10.1016/j.cej.2025.161972
 
 ## Attribution
