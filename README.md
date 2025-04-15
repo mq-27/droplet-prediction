@@ -44,7 +44,7 @@ conda install xgboost=1.7.6
 | **EMAILS**  | liumq22@mails.tsinghua.edu.cn                         |
 
 ## Publications
-
+https://doi.org/10.1016/j.cej.2025.161972
 
 ## Attribution
 This work is under MIT License. Please, acknowledge use of this work with the appropiate citation to the repository and research article.
